@@ -1,0 +1,25 @@
+.discription{
+
+color: chartreuse;
+flex-direction: row;}
+
+.about{
+    color: crimson;
+    text-align: right;
+    background-color: rgb(21, 146, 146);
+}
+
+
+p{
+    color: darkturquoise;
+    font-style:italic
+}
+.para{
+ 
+   justify-content: space-between;
+}
+.Grid{
+    display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+}
